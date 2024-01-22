@@ -14,7 +14,7 @@ Olá,
 Se você chegou aqui é porque está interessado na assinatura premium do Grammarly.
 Se você não conhece o [grammarly.com](https://www.grammarly.com/){:target="\_blank"}, ela é uma ferramenta que te ajuda a escrever textos em ingês, bem em resumo =).
 
-A versão paga da ferramenta oferece alguns recursos mais anvaçados que a gratuita, você pode checar aqui: [https://www.grammarly.com/plans](https://www.grammarly.com/plans){:target="\_blank"}.
+A versão paga da ferramenta oferece alguns recursos mais avançados que a gratuita, você pode checar aqui: [https://www.grammarly.com/plans](https://www.grammarly.com/plans){:target="\_blank"}.
 O custo da assinatura paga individual é no total de $144 USD por ano (~ R$720, sem contar IOF).
 
 Em anos anteriores, conseguimos negociar uma compra em grupo (plano Business) com um valor bem menor por pessoa. 
@@ -55,7 +55,7 @@ Caso não consigamos a meta mínima de pessoas no prazo, vamos entrar em contato
 
 ## FAQ
 
-#### Essa assinatura me permite ter uma conta indicidual ou será compartilhada com alguém?
+#### Essa assinatura me permite ter uma conta individual ou será compartilhada com alguém?
 É uma conta individual. Faremos uma compra de um lote de assinaturas e cadastramos o seu e-mail para receber uma assinatura.
 
 #### Tem como emitir um recibo (invoice) para cada compra individual?
