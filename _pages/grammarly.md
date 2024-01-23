@@ -29,10 +29,11 @@ Esse ano vamos fazer a mesma coisa. Já temos a cotação e em resumo ficou o se
 | 3 | Valor (2) em BRL (cambio R$4.95):                                  | R$193.37 |
 | 4 | Valor (3) com 10% de margem de segurança do valor final no cartão: | R$220.00 |
 
-**Valor final por pessoa:** R$220.00
+#### Valor final por pessoa: R$220.00
 
-**Meta mínima de pessoas para o grupo:** 110 pessoas
+#### Meta mínima de pessoas para o grupo: 110 pessoas
 
+Mais detalhes sobre cálculo do valor final, basta acessar essa [planilha](https://docs.google.com/spreadsheets/d/1r-CY_j9e8uHkJXepYTwTcMRxKJSRUY70Z-dvOf1C7Yc/edit?usp=sharing){:target="\_blank"}
 
 ### Eu tenho interesse o que devo fazer?
 
@@ -48,7 +49,7 @@ Se você já está no grupo do ano passado e quer renovar ou é novato e quer en
 
 **Período da assinatura**: 10/02/2024 até 10/02/2025
 
-Agora basta acompanhar essa planilha confirmando seu pagamento. Vou tentar atualizar todos os dias pela manhã.
+Agora basta acompanhar essa [planilha](https://docs.google.com/spreadsheets/d/1r-CY_j9e8uHkJXepYTwTcMRxKJSRUY70Z-dvOf1C7Yc/edit?usp=sharing){:target="\_blank"} confirmando seu pagamento. Vou tentar atualizar todos os dias pela manhã.
 
 Caso não consigamos a meta mínima de pessoas no prazo, vamos entrar em contato com quem já pagou para decidirmos o que fazer (renegociação ou devolução do dinheiro).
 
