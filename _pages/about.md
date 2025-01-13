@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello, you! I am a Ph. D. student at the [Informatic Center](https://www.cin.ufpe.br/){:target="\_blank"} of the [Federal University of Pernambuco](https://www.ufpe.br/){:target="\_blank"}
+Hello, you! I am a Ph. D. in Computer Science at the [Informatic Center](https://www.cin.ufpe.br/){:target="\_blank"} of the [Federal University of Pernambuco](https://www.ufpe.br/){:target="\_blank"}
 advised by [Fernando Castor](https://sites.google.com/a/cin.ufpe.br/castor/){:target="\_blank"} and [Fernanda Madeiral](https://fermadeiral.github.io/){:target="\_blank"}. 
 Also, I am a teacher at the [Federal Institute of Pernambuco](https://www.ifpe.edu.br/){:target="\_blank"} in the [Campus Palmares](https://www.palmares.ifpe.edu.br/){:target="\_blank"}. 
 During 2021, I was in Stockholm/Sweden in an internship at [KTH - Royal Institute of Technology](https://www.kth.se/en){:target="\_blank"} supervised by [Martin Monperrus](https://www.monperrus.net/martin/){:target="\_blank"}.
