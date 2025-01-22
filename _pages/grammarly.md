@@ -15,25 +15,25 @@ Se você chegou aqui é porque está interessado na assinatura premium do Gramma
 Se você não conhece o [grammarly.com](https://www.grammarly.com/){:target="\_blank"}, ela é uma ferramenta que te ajuda a escrever textos em ingês, bem em resumo =).
 
 A versão paga da ferramenta oferece alguns recursos mais avançados que a gratuita, você pode checar aqui: [https://www.grammarly.com/plans](https://www.grammarly.com/plans){:target="\_blank"}.
-O custo da assinatura paga individual é no total de $144 USD por ano (~ R$720, sem contar IOF).
+O custo da assinatura paga individual é no total de $144 USD por ano (~ R$870, sem contar IOF).
 
-Em anos anteriores, conseguimos negociar uma compra em grupo (plano Business) com um valor bem menor por pessoa. 
-Por exemplo, ano passado o valor ficou de R$215 por pessoa e sobrou uma grana para doação.
+Em anos anteriores (veja aqui a [planilha](https://docs.google.com/spreadsheets/d/1r-CY_j9e8uHkJXepYTwTcMRxKJSRUY70Z-dvOf1C7Yc/edit?usp=sharing){:target="\_blank"} do ano anterior), conseguimos negociar uma compra em grupo (plano Business) com um valor bem menor por pessoa. 
+Por exemplo, ano passado o valor ficou de R$220 por pessoa e sobrou uma grana para doação.
 
 Esse ano vamos fazer a mesma coisa. Já temos a cotação e em resumo ficou o seguinte:
 
-| # | Descrição                                                          | Valor    |
-|---|--------------------------------------------------------------------|----------|
-| 1 | Valor anual por pessoa em USD:                                     | $35.31   |
-| 2 | (Valor (1) adicionado de SPREAD (4%)) + IOF (6.38%):               | $39.07   |
-| 3 | Valor (2) em BRL (cambio R$4.95):                                  | R$193.37 |
-| 4 | Valor (3) com 10% de margem de segurança do valor final no cartão: | R$220.00 |
+| # | Descrição                                                           | Valor    |
+|---|---------------------------------------------------------------------|----------|
+| 1 | Valor anual por pessoa em USD:                                      | $38.84   |
+| 2 | (Valor (1) adicionado de SPREAD (4%)) + IOF (6.38%):                | $42.97   |
+| 3 | Valor (2) em BRL (cambio R$6.20):                                   | R$266.42 |
+| 4 | Valor (3) com ~10% de margem de segurança do valor final no cartão: | R$290.00 |
 
-#### Valor final por pessoa: R$220.00
+#### Valor final por pessoa: R$290.00
 
-#### Meta mínima de pessoas para o grupo: 110 pessoas
+#### Meta mínima de pessoas para o grupo: 90 pessoas
 
-Mais detalhes sobre cálculo do valor final, basta acessar essa [planilha](https://docs.google.com/spreadsheets/d/1r-CY_j9e8uHkJXepYTwTcMRxKJSRUY70Z-dvOf1C7Yc/edit?usp=sharing){:target="\_blank"}
+Mais detalhes sobre cálculo do valor final, basta acessar essa [planilha](https://docs.google.com/spreadsheets/d/1jtP1QjYiuKUYc2k0968i3RzKxkoe1LQNgt9mF8nfLdM/edit?usp=sharing){:target="\_blank"}
 
 ### Eu tenho interesse o que devo fazer?
 
@@ -41,15 +41,15 @@ Se você já está no grupo do ano passado e quer renovar ou é novato e quer en
 
 **Pix para pagamento**: delanohelio@gmail.com (Banco do Brasil) (Delano Hélio Oliveira)
 
-**Valor**: R$220.00
+**Valor**: R$290.00
 
-**Formulário para envio de dados e comprovação de pagamento**: [https://forms.gle/daDGboaur2qTA6qD6](https://forms.gle/daDGboaur2qTA6qD6){:target="\_blank"}
+**Formulário para envio de dados e comprovação de pagamento**: [https://forms.gle/ZPjPxFLPHpyP37yr8](https://forms.gle/ZPjPxFLPHpyP37yr8){:target="\_blank"}
 
-**Prazo para pagamento e envio dos dados**: 07/02/2024
+**Prazo para pagamento e envio dos dados**: 06/02/2025
 
-**Período da assinatura**: 10/02/2024 até 10/02/2025
+**Período da assinatura**: 10/02/2025 até 10/02/2026
 
-Agora basta acompanhar essa [planilha](https://docs.google.com/spreadsheets/d/1r-CY_j9e8uHkJXepYTwTcMRxKJSRUY70Z-dvOf1C7Yc/edit?usp=sharing){:target="\_blank"} confirmando seu pagamento. Vou tentar atualizar todos os dias pela manhã.
+Agora basta acompanhar essa [planilha](https://docs.google.com/spreadsheets/d/1jtP1QjYiuKUYc2k0968i3RzKxkoe1LQNgt9mF8nfLdM/edit?usp=sharing){:target="\_blank"} confirmando seu pagamento. Vou tentar atualizar todos os dias pela manhã.
 
 Caso não consigamos a meta mínima de pessoas no prazo, vamos entrar em contato com quem já pagou para decidirmos o que fazer (renegociação ou devolução do dinheiro).
 
@@ -61,6 +61,15 @@ Caso não consigamos a meta mínima de pessoas no prazo, vamos entrar em contato
 
 #### Tem como emitir um recibo (invoice) para cada compra individual?
 Não é possível. Algumas pessoas gostariam de receber esse recibo para poder solicitar reembolso de algum programa institucional, entretanto só é emitido o recibo da compra total do grupo todo.
+
+#### Posso pagar minha assinatura separadamente com a Grammarly?
+Não é possível (mas seria muito bom se fosse). Essa negociação para conseguirmos esse desconto é resultado de uma compra única de várias assinaturas.
+
+#### É possível fazer pagamento no cartão?
+Não é possível pois eu não vendo as assinaturas, apenas coleto o dinheiro para a compra coletiva de assinaturas na Grammarly.
+
+#### Poderei deixar para pagar depois e ativar minha assinatura depois?
+Não é possível, a compra precisa ser do número exato de assinaturas. Sendo assim, precisamos definir a quantidade de assinaturas antes de fazer o pagamento coletivo delas e depois não podemos aumentar nem diminuir esse número.
 
 #### Posso usar meu e-mail pessoal para minha conta da assinatura?
 Sim, você pode usar qualquer e-mail para a sua assinatura, não há restrição de domínio.
@@ -74,5 +83,7 @@ Não precisa, basta escolher um e-mail que vamos te mandar um link onde você po
 #### Uma pessoa amiga minha que não é do CIn queria participar do grupo, essa pessoa pode?
 Sim, qualquer pessoa pode participar do grupo, não precisa ser do CIn nem está vinculado a nenhuma instituição.
 
+#### Você é representante da Grammarly? Porque está fazendo isso?
+Não sou representante da Grammarly. Há alguns anos algum colega do CIn entra em contato com a empresa para negociar uma compra de várias assinaturas com preço acessível para nós. Os últimos dois anos fui eu que fiz isso. A vantagem que recebo em fazer isso é que eu tento pagar a minha cota da grammarly do que houver de dinheiro restante. Ainda assim se sobrar, eu faço doação desse dinheiro. A desvantagem é que eu uso uma grande margem do meu cartão de crédito.
 
 **Outras dúvidas**: dho at cin dot ufpe point br
