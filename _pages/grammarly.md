@@ -7,7 +7,7 @@ nav: false
 nav_order: 7
 ---
 
-## Assinatura em Grupo do Grammarly 2024
+## Assinatura em Grupo do Grammarly 2025
 
 Olá,
 
