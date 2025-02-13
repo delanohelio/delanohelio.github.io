@@ -45,9 +45,9 @@ Se você já está no grupo do ano passado e quer renovar ou é novato e quer en
 
 **Formulário para envio de dados e comprovação de pagamento**: [https://forms.gle/ZPjPxFLPHpyP37yr8](https://forms.gle/ZPjPxFLPHpyP37yr8){:target="\_blank"}
 
-**Prazo para pagamento e envio dos dados**: 06/02/2025
+**Prazo para pagamento e envio dos dados**: 21/02/2025
 
-**Período da assinatura**: 10/02/2025 até 10/02/2026
+**Período da assinatura**: 24/02/2025 até 24/02/2026
 
 Agora basta acompanhar essa [planilha](https://docs.google.com/spreadsheets/d/1jtP1QjYiuKUYc2k0968i3RzKxkoe1LQNgt9mF8nfLdM/edit?usp=sharing){:target="\_blank"} confirmando seu pagamento. Vou tentar atualizar todos os dias pela manhã.
 
