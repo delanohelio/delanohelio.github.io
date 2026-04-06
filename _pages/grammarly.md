@@ -7,33 +7,33 @@ nav: false
 nav_order: 7
 ---
 
-## Assinatura em Grupo do Grammarly 2025
+## Assinatura em Grupo do Grammarly 2026
 
 Olá,
 
 Se você chegou aqui é porque está interessado na assinatura premium do Grammarly.
-Se você não conhece o [grammarly.com](https://www.grammarly.com/){:target="\_blank"}, ela é uma ferramenta que te ajuda a escrever textos em ingês, bem em resumo =).
+Se você não conhece o [grammarly.com](https://www.grammarly.com/){:target="\_blank"}, ela é uma ferramenta que te ajuda a escrever textos em inglês (e tenho percebido que em português também), bem em resumo =).
 
 A versão paga da ferramenta oferece alguns recursos mais avançados que a gratuita, você pode checar aqui: [https://www.grammarly.com/plans](https://www.grammarly.com/plans){:target="\_blank"}.
-O custo da assinatura paga individual é no total de $144 USD por ano (~ R$870, sem contar IOF).
+O custo da assinatura paga individual é no total de $144 USD por ano (~ R$750, sem contar IOF).
 
-Em anos anteriores (veja aqui a [planilha](https://docs.google.com/spreadsheets/d/1r-CY_j9e8uHkJXepYTwTcMRxKJSRUY70Z-dvOf1C7Yc/edit?usp=sharing){:target="\_blank"} do ano anterior), conseguimos negociar uma compra em grupo (plano Business) com um valor bem menor por pessoa. 
-Por exemplo, ano passado o valor ficou de R$220 por pessoa e sobrou uma grana para doação.
+Em anos anteriores (veja aqui a [planilha](https://docs.google.com/spreadsheets/d/1jtP1QjYiuKUYc2k0968i3RzKxkoe1LQNgt9mF8nfLdM/edit?usp=sharing){:target="\_blank"} do ano anterior), conseguimos negociar uma compra em grupo (plano Business) com um valor bem menor por pessoa. 
+Por exemplo, ano passado o valor ficou de R$290 por pessoa e sobrou uma grana para doação.
 
-Esse ano vamos fazer a mesma coisa. Já temos a cotação e em resumo ficou o seguinte:
+Esse ano vamos fazer a mesma coisa. Mas dessa vez vamos usar algum banco com conta global (como Wise ou Revolut) para tentar reduzir o valor final.
 
 | # | Descrição                                                           | Valor    |
 |---|---------------------------------------------------------------------|----------|
-| 1 | Valor anual por pessoa em USD:                                      | $38.84   |
-| 2 | (Valor (1) adicionado de SPREAD (4%)) + IOF (6.38%):                | $42.97   |
-| 3 | Valor (2) em BRL (cambio R$6.20):                                   | R$266.42 |
-| 4 | Valor (3) com ~10% de margem de segurança do valor final no cartão: | R$290.00 |
+| 1 | Valor anual por pessoa em USD:                                      | $47.00   |
+| 2 | (Valor (1) adicionado de SPREAD (4%)) + IOF (1.1%):                | $49.41   |
+| 3 | Valor (2) em BRL (cambio R$5.40):                                   | R$266.85 |
+| 4 | Valor (3) com ~10% de margem de segurança do valor final da operação: | R$290.00 |
 
 #### Valor final por pessoa: R$290.00
 
-#### Meta mínima de pessoas para o grupo: 90 pessoas
+#### Meta mínima de pessoas para o grupo: 60 pessoas
 
-Mais detalhes sobre cálculo do valor final, basta acessar essa [planilha](https://docs.google.com/spreadsheets/d/1jtP1QjYiuKUYc2k0968i3RzKxkoe1LQNgt9mF8nfLdM/edit?usp=sharing){:target="\_blank"}
+Mais detalhes sobre cálculo do valor final, basta acessar essa [planilha](https://docs.google.com/spreadsheets/d/1my0gfuIOdUaBfGpG_S-0ecfij3dO4LwNyxT9e4KjpI8/edit?usp=sharing){:target="\_blank"}
 
 ### Eu tenho interesse o que devo fazer?
 
@@ -43,15 +43,19 @@ Se você já está no grupo do ano passado e quer renovar ou é novato e quer en
 
 **Valor**: R$290.00
 
-**Formulário para envio de dados e comprovação de pagamento**: [https://forms.gle/ZPjPxFLPHpyP37yr8](https://forms.gle/ZPjPxFLPHpyP37yr8){:target="\_blank"}
+**Formulário para envio de dados e comprovação de pagamento**: [https://forms.gle/jv7g8FN4QxMiSM1E8](https://forms.gle/jv7g8FN4QxMiSM1E8){:target="\_blank"}
 
-**Prazo para pagamento e envio dos dados**: 21/02/2025
+**Prazo para pagamento e envio dos dados**: 12/04/2026
 
-**Período da assinatura**: 24/02/2025 até 24/02/2026
+**Período da assinatura**: 13/04/2026 até 13/04/2027 (1 ano)
 
 Agora basta acompanhar essa [planilha](https://docs.google.com/spreadsheets/d/1jtP1QjYiuKUYc2k0968i3RzKxkoe1LQNgt9mF8nfLdM/edit?usp=sharing){:target="\_blank"} confirmando seu pagamento. Vou tentar atualizar todos os dias pela manhã.
 
 Caso não consigamos a meta mínima de pessoas no prazo, vamos entrar em contato com quem já pagou para decidirmos o que fazer (renegociação ou devolução do dinheiro).
+
+Além disso, se tivermos um número acima de 80 pessoas teremos uma redução no valor final (desconto de aproximadamente 10%). Então, se você conhece alguém que possa se interessar, compartilha essa página com ela. Se conseguimos essa meta maior, poderei devolver uma parte do dinheiro para quem já pagou.
+
+**Destaco**: Qualquer pessoa pode participar do grupo, não precisa ser do CIn nem estar vinculado a nenhuma instituição. Então, se você conhece alguém que possa se interessar, compartilha essa página com ela.
 
 
 ## FAQ
@@ -66,7 +70,7 @@ Não é possível. Algumas pessoas gostariam de receber esse recibo para poder s
 Não é possível (mas seria muito bom se fosse). Essa negociação para conseguirmos esse desconto é resultado de uma compra única de várias assinaturas.
 
 #### É possível fazer pagamento no cartão?
-Não é possível pois eu não vendo as assinaturas, apenas coleto o dinheiro para a compra coletiva de assinaturas na Grammarly.
+Não é possível pois eu não vendo as assinaturas, apenas coleto o dinheiro para a compra coletiva de assinaturas na Grammarly. Todavia você pode fazer Pix parcelado pelo seu banco (pagando juros a ele).
 
 #### Poderei deixar para pagar depois e ativar minha assinatura depois?
 Não é possível, a compra precisa ser do número exato de assinaturas. Sendo assim, precisamos definir a quantidade de assinaturas antes de fazer o pagamento coletivo delas e depois não podemos aumentar nem diminuir esse número.
@@ -84,6 +88,6 @@ Não precisa, basta escolher um e-mail que vamos te mandar um link onde você po
 Sim, qualquer pessoa pode participar do grupo, não precisa ser do CIn nem está vinculado a nenhuma instituição.
 
 #### Você é representante da Grammarly? Porque está fazendo isso?
-Não sou representante da Grammarly. Há alguns anos algum colega do CIn entra em contato com a empresa para negociar uma compra de várias assinaturas com preço acessível para nós. Os últimos dois anos fui eu que fiz isso. A vantagem que recebo em fazer isso é que eu tento pagar a minha cota da grammarly do que houver de dinheiro restante. Ainda assim se sobrar, eu faço doação desse dinheiro. A desvantagem é que eu uso uma grande margem do meu cartão de crédito.
+Não sou representante da Grammarly. Há alguns anos algum colega do CIn entra em contato com a empresa para negociar uma compra de várias assinaturas com preço acessível para nós. Os últimos três anos fui eu que fiz isso. A vantagem que recebo em fazer isso é garantir um preço acessível para todos. A desvantagem é que eu preciso me resguadar quanto a possíveis implicações financeiras (nunca aconteceu).
 
 **Outras dúvidas**: dho at cin dot ufpe point br
